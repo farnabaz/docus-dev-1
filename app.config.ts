@@ -28,7 +28,7 @@ export default defineAppConfig({
       showLinkIcon: true,
       exclude: [],
       fluid: true,
-      title: 'Test'
+      title: ' Test'
     },
     footer: {
       iconLinks: [
